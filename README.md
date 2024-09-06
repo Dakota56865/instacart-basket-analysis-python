@@ -24,7 +24,7 @@ Project Dataset
 
 PostgreSQL Installation Guide: https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 
-Tableau Report: https://public.tableau.com/app/profile/dakota.smerglia/viz/storyboard3_10/Story2
+Tableau Report: https://public.tableau.com/app/profile/dakota.smerglia/vizzes
 
 # Project Highlights
 SQL Queries for business insights such as movie performance, rental duration, and customer distribution.
