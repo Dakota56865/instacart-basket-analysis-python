@@ -12,7 +12,7 @@ Exploring customer locations and sales distribution by region.
 
 Analyzing rental duration and customer lifetime value.
 
-#Key Features
+# Key Features
 Loading and querying data from a PostgreSQL database.
 
 Writing complex SQL queries to analyze various aspects of the company’s operations.
