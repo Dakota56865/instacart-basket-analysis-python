@@ -12,11 +12,13 @@ Exploring customer locations and sales distribution by region.
 Analyzing rental duration and customer lifetime value.
 
 Key Features
+
 Loading and querying data from a PostgreSQL database.
 Writing complex SQL queries to analyze various aspects of the company’s operations.
 Presenting findings in visual format to support Rockbuster’s management team.
 
 Resources
+
 Project Dataset
 
 PostgreSQL Installation Guide: https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
@@ -24,6 +26,9 @@ PostgreSQL Installation Guide: https://www.enterprisedb.com/downloads/postgres-p
 Tableau Report: https://public.tableau.com/app/profile/dakota.smerglia/viz/storyboard3_10/Story2
 
 Project Highlights
+
 SQL Queries for business insights such as movie performance, rental duration, and customer distribution.
+
 Data visualizations created using SQL and Tableau to present key findings.
+
 Comprehensive SQL analysis with detailed answers to business questions.
