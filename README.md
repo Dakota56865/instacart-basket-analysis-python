@@ -19,6 +19,7 @@ Presenting findings in visual format to support Rockbuster’s management team.
 Resources
 Project Dataset
 PostgreSQL Installation Guide: https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+
 Tableau Report: https://public.tableau.com/app/profile/dakota.smerglia/viz/storyboard3_10/Story2
 
 Project Highlights
