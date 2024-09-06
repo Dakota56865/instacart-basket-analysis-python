@@ -19,14 +19,14 @@ Writing complex SQL queries to analyze various aspects of the company’s operat
 
 Presenting findings in visual format to support Rockbuster’s management team.
 
-#Resources
+# Resources
 Project Dataset
 
 PostgreSQL Installation Guide: https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 
 Tableau Report: https://public.tableau.com/app/profile/dakota.smerglia/viz/storyboard3_10/Story2
 
-#Project Highlights
+# Project Highlights
 SQL Queries for business insights such as movie performance, rental duration, and customer distribution.
 
 Data visualizations created using SQL and Tableau to present key findings.
